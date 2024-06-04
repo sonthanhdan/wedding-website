@@ -230,8 +230,8 @@
 	$(function(){
 		mobileMenuOutsideClick();
 		// parallax();
-		offcanvasMenu();
-		burgerMenu();
+		// offcanvasMenu();
+		// burgerMenu();
 		contentWayPoint();
 		dropdown();
 		// testimonialCarousel();
