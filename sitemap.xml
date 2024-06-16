@@ -2,8 +2,9 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
     <url>
+        <loc>https://cdw-dan-and-nhi.vercel.app</loc>
         <image:image>
-            <image:loc>http://cdw-dan-and-nhi.vercel.app/images/IMG_7840.jpg</image:loc>
+            <image:loc>https://cdw-dan-and-nhi.vercel.app/images/IMG_7840.jpg</image:loc>
         </image:image>
         <lastmod>2024-06-16T14:29:06+00:00</lastmod>
     </url>
