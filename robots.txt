@@ -1,0 +1,12 @@
+User-agent: *
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: AdsIdxBot
+User-agent: Google-InspectionTool
+User-agent: facebookexternalhit
+User-agent: Applebot-Extended
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: Twitterbot
+User-agent: Bingbot
+Allow: /
